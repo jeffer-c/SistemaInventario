@@ -1,12 +1,254 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E5AB19-EC2A-409A-8E11-95477974B8C9}|SistemaInvetario.Modelos\\SistemaInvetario.Modelos.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainvetario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E5AB19-EC2A-409A-8E11-95477974B8C9}|SistemaInvetario.Modelos\\SistemaInvetario.Modelos.csproj|solutionrelative:sistemainvetario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario.accesodatos\\migrations\\20250221001832_agregarbodegamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\migrations\\20250221001832_agregarbodegamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\areas\\inventario\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBA1F25C-18BF-48F7-BDA2-860825C26C09}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\sistemainventario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}|SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj|c:\\users\\jeffe\\onedrive\\documentos\\estudios\\udemy\\asp net 7\\aplicaciones\\sistemainventario\\sistemainventario\\sistemainventario\\sistemainventario.utilidades\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}|SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj|solutionrelative:sistemainventario.utilidades\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250221001832_AgregarBodegaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250221001832_AgregarBodegaMigracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Migrations\\20250221001832_AgregarBodegaMigracion.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250221001832_AgregarBodegaMigracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Migrations\\20250221001832_AgregarBodegaMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:18:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BodegaConfiguracion.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:13:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bodega.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInvetario.Modelos\\Bodega.cs",
+              "RelativeDocumentMoniker": "SistemaInvetario.Modelos\\Bodega.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInvetario.Modelos\\Bodega.cs",
+              "RelativeToolTip": "SistemaInvetario.Modelos\\Bodega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:25:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:04:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeToolTip": "SistemaInventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T23:01:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T02:27:49.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T02:20:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SistemaInventario\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SistemaInventario\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-20T02:14:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:59:28.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaInventario.csproj",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+              "RelativeDocumentMoniker": "SistemaInventario\\SistemaInventario.csproj",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+              "RelativeToolTip": "SistemaInventario\\SistemaInventario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T01:56:21.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeToolTip": "SistemaInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:39:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T00:35:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DS.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\DS.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Utilidades\\DS.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Documentos\\Estudios\\Udemy\\ASP NET 7\\Aplicaciones\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\DS.cs",
+              "RelativeToolTip": "SistemaInventario.Utilidades\\DS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:54:50.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
