@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventario", "SistemaInventario\SistemaInventario.csproj", "{CBA1F25C-18BF-48F7-BDA2-860825C26C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventario.AccesoDatos", "SistemaInventario.AccesoDatos\SistemaInventario.AccesoDatos.csproj", "{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInvetario.Modelos", "SistemaInvetario.Modelos\SistemaInvetario.Modelos.csproj", "{90E5AB19-EC2A-409A-8E11-95477974B8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventario.Utilidades", "SistemaInventario.Utilidades\SistemaInventario.Utilidades.csproj", "{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +21,23 @@ Global
 		{CBA1F25C-18BF-48F7-BDA2-860825C26C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA1F25C-18BF-48F7-BDA2-860825C26C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA1F25C-18BF-48F7-BDA2-860825C26C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F2F3C3-9CAE-4694-95E9-520AF19226D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E5AB19-EC2A-409A-8E11-95477974B8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E5AB19-EC2A-409A-8E11-95477974B8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E5AB19-EC2A-409A-8E11-95477974B8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E5AB19-EC2A-409A-8E11-95477974B8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA511275-1AD4-4A13-ADB8-BB3A7F26D843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2765EF6C-E585-408E-AB33-218B0FCDFEAB}
 	EndGlobalSection
 EndGlobal
